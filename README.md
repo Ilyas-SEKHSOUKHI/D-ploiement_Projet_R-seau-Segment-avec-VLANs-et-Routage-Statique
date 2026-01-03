@@ -30,11 +30,10 @@ Les sites distants utilisent le bloc **10.0.30.128/25** pour les liaisons point 
 - Ping vers les sites distants pour vérifier les **routes statiques**  
 - Accessibilité aux interfaces de gestion (SVI)  
 
-## Vidéo du projet
-<video width="640" height="480" controls>
-  <source src="videos/Vidéo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture de la vidéo.
-</video>
+## 🎥 Vidéo du projet
+
+[![Déploiement Réseau VLANs et Routage Statique](https://img.youtube.com/vi/M55ntfwHQVM/0.jpg)](https://youtu.be/M55ntfwHQVM)
+
 
 ## Auteur
 **Ilyas Sekhsoukhi**
